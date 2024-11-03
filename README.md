@@ -8,7 +8,7 @@ I'm a passionate Junior QA Tester with a keen eye for detail and experience in m
 - 🎓 I'm in my final year at the Faculty of Informatics at the Czech University of Life Sciences Prague (CULS).
 - ✔️ I have completed a Functional Software Testing course.
 - 🎯 My next goal is to dive into test automation with Java.
-- 📋 Check out my [resume](https://drive.google.com/file/d/1eihqbqyxzcu06hnu9hAYqFOr2DizAOPd/view?usp=sharing).
+- 📋 Check out my [resume](https://drive.google.com/file/d/1DU6y4unX_2CMld5KgSzuBlThtR2NNShM/view?usp=sharing).
 - ⚡ Random facts: I collect LEGO, love Harry Potter, and enjoy creating posters in Photoshop in my free time.
 
 
